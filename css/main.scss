@@ -1,0 +1,22 @@
+---
+---
+@charset "utf-8";
+
+@import "bootstrap-min";
+
+header {
+  text-align: center;
+  margin-bottom: 2.5em;
+
+  h1 {
+    color: $brand-primary;
+  }
+
+  p {
+    font-weight: 300;
+  }
+}
+
+button.sbbtn {
+  margin-bottom: 1em;
+}

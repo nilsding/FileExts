@@ -1,0 +1,8 @@
+# Site settings
+title: FileExts
+description: "I convert every file!"
+baseurl: "/FileExts"
+url: "https://nilsding.github.io"
+
+# Build settings
+markdown: kramdown
