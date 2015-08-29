@@ -18,3 +18,9 @@ Authorize with Twitter for the first time:
 And finally run the bot:
 
     $ bundle exec twittbot start
+
+## Contributors
+
+Special thanks to @Revengeday, @TecraFox, @TheRealKingS86 and @pixeldesu for
+helping me with the file extension list.  I owe you guys a beer!
+
